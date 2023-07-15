@@ -3734,8 +3734,8 @@ input.btn-block[type=button] {
 
 @font-face {
     font-family: 'Glyphicons Halflings';
-    src: url(../fonts/glyphicons-halflings-regular.eot);
-    src: url(../fonts/glyphicons-halflings-regular.eot?#iefix) format("embedded-opentype"), url(../fonts/glyphicons-halflings-regular.woff) format("woff"), url(../fonts/glyphicons-halflings-regular.ttf) format("truetype"), url(../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format("svg")
+    src: url(fonts/glyphicons-halflings-regular.eot);
+    src: url(fonts/glyphicons-halflings-regular.eot?#iefix) format("embedded-opentype"), url(fonts/glyphicons-halflings-regular.woff) format("woff"), url(fonts/glyphicons-halflings-regular.ttf) format("truetype"), url(fonts/glyphicons-halflings-regular.svg) format("svg")
 }
 
 .glyphicon {
@@ -20853,8 +20853,8 @@ Create your own skin at http://designer.videojs.com
 
 @font-face {
     font-family: VideoJS;
-    src: url(../fonts/vjs.eot);
-    src: url(../fonts/vjs.eot?#iefix) format("embedded-opentype"), url(../fonts/vjs.woff) format("woff"), url(../fonts/vjs.ttf) format("truetype"), url(.../fonts/vjs.svg#icomoon) format("svg");
+    src: url(fonts/vjs.eot);
+    src: url(fonts/vjs.eot?#iefix) format("embedded-opentype"), url(fonts/vjs.woff) format("woff"), url(../fonts/vjs.ttf) format("truetype"), url(.../fonts/vjs.svg#icomoon) format("svg");
     font-weight: 400;
     font-style: normal
 }
